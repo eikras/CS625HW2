@@ -32,30 +32,30 @@ After this I continued to use clustering to refine and merge the breed names. An
 ## Part 2 questions and answers
 
 1. How many types (kinds) of pets are there?
-* There are 40 types of pets in this dataset. 
+    * There are 40 types of pets in this dataset. 
 2. How many cats?
-* There are 498 cats total. 
+    * There are 498 cats total. 
 3. How many breeds of cats?
-* There are 35 breeds of cats. 
+    * There are 35 breeds of cats. 
 4. What's the most popular cat breed? How many cats are in that breed?
-* Domestic Shorthair is the most popular breed of Cats and there are 105 Domestic Shorthair on in the dataset. 
+    * Domestic Shorthair is the most popular breed of Cats and there are 105 Domestic Shorthair on in the dataset. 
 5. What's the age range of the cats?
-* Cats are from a few weeks old (0 years) to 24 years
+    * Cats are from a few weeks old (0 years) to 24 years
 6. What's the age range of the rabbits? (Don't forget to look for bunny, too.)
-* Rabbits are 2 years to 13 years old. 
+    * Rabbits are 2 years to 13 years old. 
 7. What is the oldest pet? Give the pet's name, kind, and age.
-* The oldest pet is a 24 year old cat Bruce Springsteen who is a mix. 
+    * The oldest pet is a 24 year old cat Bruce Springsteen who is a mix. 
 8. What are the top 5 most popular dog breeds? List the breed and number.
-* The top 5 breeds of dogs are:
-    * Golden Retriever: 174
-    * Mutt(mix): 35
-    * Beagle: 27
-    * Boarder Collie, German Shepherd, Labrador Retriever: (tied for) 26
-    * and Pit Bull: 23
+    * The top 5 breeds of dogs are:
+        * Golden Retriever: 174
+        * Mutt(mix): 35
+        * Beagle: 27
+        * Boarder Collie, German Shepherd, Labrador Retriever: (tied for) 26
+        * and Pit Bull: 23
 9. What's the most popular everyday name for a dog?
-* The most popular everyday dog name is Daisy.
+    * The most popular everyday dog name is Daisy.
 10. What's the most popular full name any pet?
-* The most popular full name of any pet is Sophie.
+    * The most popular full name of any pet is Sophie.
 
 ## References
 
