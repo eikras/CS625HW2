@@ -59,7 +59,6 @@ After this I continued to use clustering to refine and merge the breed names. An
 
 ## References
 
-*Every report must list the references (including the URL) that you consulted while completing the assignment. Replace the items below with the references you consulted*
 
 * Reference 1, <https://vickysteeves.gitlab.io/2018-uutah-repro/cleaning-data.html>
 * Reference 2, <https://stackoverflow.com/questions/54679433/checking-for-different-words-in-a-value>
